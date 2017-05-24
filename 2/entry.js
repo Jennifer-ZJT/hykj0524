@@ -5,3 +5,4 @@
 document.write('<h1>hello word</h1>');
 
 //document.write(require('./module.js'));
+
